@@ -38,6 +38,7 @@
         padding-bottom: 0;
     }
     .buscompany {
+        background-color: rgb(66, 75, 79);
         padding: 5px;
         width: 35%;
         border: 10px  rgb(0, 0, 0);
