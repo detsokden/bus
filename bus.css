@@ -2,6 +2,7 @@
 
 * {
     height: 100vh;
+    display: black;
     background-color: rgb(49, 48, 48);
     font-family: Garamond, serif;
     margin: 0;
