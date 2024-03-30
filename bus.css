@@ -8,6 +8,10 @@
     box-sizing: border-box;
 }
 @media only screen and (max-width: 600px) {
+    .hochiminh {
+    display: block;
+    height: 100vh;
+}
     table {
         width: 100%;
         padding: 0;
@@ -105,10 +109,6 @@ section {
     display: block;
     justify-content: center;
     scroll-snap-align: start;
-}
-.hochiminh {
-    display: block;
-    height: 100%;
 }
 .container {
     scroll-snap-type: y mandatory;
