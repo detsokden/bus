@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
+    height: 100vh;
     background-color: rgb(49, 48, 48);
     font-family: Garamond, serif;
     margin: 0;
