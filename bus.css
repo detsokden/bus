@@ -100,13 +100,13 @@ h1 {
     text-align: center;
 }
 section {
+    padding-top: 5%;
     height: 100vh;
     display: block;
     justify-content: center;
     scroll-snap-align: start;
 }
 .container {
-    padding-top: 5%;
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
     height: 100vh;
