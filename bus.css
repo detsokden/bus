@@ -78,14 +78,12 @@
     box-shadow: none;
 }
 td {
-    border: none;
     font-family: "Mona Sans", "Mona Sans Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: rgb(255, 255, 255);
     background-color: rgb(63, 63, 63);
     text-align: center;
 }
 th {
-    border: none;
     padding-bottom: 2px;
     padding-top: 2px;
     color: white;
