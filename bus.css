@@ -25,7 +25,7 @@
         border: 0.5px solid grey;
     }
     .buspic {
-        border: hide;
+        border: hidden;
     }
     td {
         border: 0.5px solid grey;
