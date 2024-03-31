@@ -22,8 +22,13 @@
     }
     th {
         font-size: 13px;
+        border: 0.5px solid grey;
+    }
+    .buspic {
+        border: hide;
     }
     td {
+        border: 0.5px solid grey;
         padding-top: 5px;
         padding-bottom: 5px;
         font-size: 14px;
