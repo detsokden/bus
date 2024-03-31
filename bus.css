@@ -22,7 +22,6 @@
     }
     th {
         font-size: 13px;
-        border: 1px solid grey;
     }
     .buspic {
         border: hidden;
@@ -34,12 +33,15 @@
         font-size: 14px;
     }
     .departure {
+        border: 1px solid grey
         width: 100px;
     }
     .duration {
+        border: 1px solid grey
         width: 100px;
     }
     .price {
+        border: 1px solid grey
         width: 120px;
     }
     .buspicture {
