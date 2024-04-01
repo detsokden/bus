@@ -14,7 +14,7 @@
         box-shadow: rgba(0, 0, 0, 0.679) 10px 10px 10px;
     }
     th, td {
-        height: 35px;
+        height: 30px;
     }
     th {
         font-size: 13px;
@@ -175,29 +175,29 @@ table, h1 {
 }
 .giantbus {
     margin-top: 10px;
-    width: 110px;
+    width: 90px;
 }
 .giantsleepbus {
     margin-top: 10px;
-    width: 90px;
+    width: 70px;
 }
 .airbuslogo {
     width: 40px;
 }
 .airbus {
     margin-top: 10px;
-    width: 85px;
+    width: 75px;
 }
 .hotelbus{
     margin-top: 10px;
-    width: 90px;
+    width: 80px;
 }
 .vetvan2 {
-    width: 85px;
+    width: 80px;
 }
 .vetvan {
     margin-top: 15px;
-    width: 83px;
+    width: 80px;
 }
 .minibus {
     margin-top: 15px;
