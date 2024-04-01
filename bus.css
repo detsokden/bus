@@ -22,6 +22,7 @@
     }
     th {
         font-size: 13px;
+        border: 1px solid black;
     }
     .buspic {
         border: hidden;
@@ -96,7 +97,7 @@ th {
     width: 200px;
 }
 table {
-    border-collapse: separate;
+    border-collapse: collapse;
     border-spacing: 0;
     border: 0;
     margin-left: auto;
