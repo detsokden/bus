@@ -111,6 +111,7 @@ section {
     scroll-snap-align: start;
 }
 .container {
+    opject-fit: cover;
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
     height: 100vh;
