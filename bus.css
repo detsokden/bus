@@ -30,15 +30,15 @@
         font-size: 14px;
     }
     .departure {
-        border: 1px solid grey
+        border: 1px solid grey;
         width: 100px;
     }
     .duration {
-        border: 1px solid grey
+        border: 1px solid grey;
         width: 100px;
     }
     .price {
-        border: 1px solid grey
+        border: 1px solid grey;
         width: 120px;
     }
     .buspicture {
@@ -215,5 +215,5 @@ table, h1 {
         border-spacing: 0;
     }
     .bustable {
-        margin-bottom: 20px;
+        margin-bottom: 100px;
     }
