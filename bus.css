@@ -57,6 +57,16 @@
     .bustable {
         margin-bottom: 20px;
     }
+    table, h1 {
+    scale: 0; opacity: 0;
+    animation: fade-in linear forwards;
+    animation-timeline: view();
+    animation-range-start: 150px;
+    animation-range-end: 300px;
+}
+@keyframes fade-in {
+    to {scale: 1; opacity: 1;}
+}
 }
 .plok {
     background-color: rgba(255, 255, 255, 0);
